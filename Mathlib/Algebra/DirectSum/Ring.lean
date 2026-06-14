@@ -8,6 +8,7 @@ module
 public import Mathlib.Algebra.GradedMonoid
 public import Mathlib.Algebra.DirectSum.Basic
 public import Mathlib.Algebra.Ring.Associator
+public import Std.Tactic.BVDecide.Normalize
 
 /-!
 # Additively-graded multiplicative structures on `⨁ i, A i`

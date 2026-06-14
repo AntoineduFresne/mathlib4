@@ -12,7 +12,8 @@ public import Mathlib.Algebra.Group.Hom.Defs
 public import Mathlib.RingTheory.Congruence.Basic
 public import Mathlib.Algebra.Ring.Subsemiring.Basic
 public import Mathlib.Algebra.Ring.Subring.Basic
-public import Mathlib.Algebra.RingQuot
+public import Mathlib.Tactic.NormNum.Inv
+public import Mathlib.Tactic.NormNum.Pow
 
 /-!
 # Congruence relations and ring homomorphisms
